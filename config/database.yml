@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: utf-8
+  database: cate
+  host: localhost
+  username: postgres
+  password: postgres
